@@ -7,13 +7,13 @@
 
 # Site settings
 title: First Test Site
-email: alexgrahambowman@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Site used to learn coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://codetestbase.com" # the base hostname & protocol for your site
-twitter_username: alexgb87
-github_username:  alexgb87
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
